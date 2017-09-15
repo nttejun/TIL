@@ -164,11 +164,23 @@
 + 일반화(상속)와 [위임](https://en.wikipedia.org/wiki/Delegation_(computing))을 [학습](http://wjun.tistory.com/66)하면서 1장 모델링 내용과 연장되어 서비스를 만들고 변경을 위해 클래스, 객체의 생성과 어떻게 관계를 나타낼 것인지 중요성을 공부하면서 설계, 구현 이것이 전체 앱에 미칠 영향에 대해 생각할 수 있는 시간이 되었다
 + 상속의 사용 결정을 판단하는 규칙 '피터 코드의 상속규칙' 하나의 개념 사용에도 올바른 판단기준으로 판단하는 것을 보면서 작은 단위의 구현부터 올바른 결정이 개발 생산성을 높이는 중요한 과정이라고 생각된다
 
-<br>
 ---
+<br>
 
 ## 09 . 14 Thursday
 
 ### [Java 객체지향 디자인패턴](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788968480911) 3장 SOLID원칙을 공부하고 있다
 
 + SOLID원칙 중 [SRP](http://wjun.tistory.com/67), [OCP](http://wjun.tistory.com/68)를 읽으며 개념을 공부하며 원칙을 위반하는 코드와 위반하지 않는 코드를 작성하며 이해하는 시간을 가졌다
+
+---
+<br>
+
+## 09 . 15 Friday
+
+### [2017 AWSomeday 기술에센셜](https://aws.amazon.com/ko/events/awsome-day/tech/) 행사에 다녀왔다
+
++ 구현해본 경험이 있어서인지 사용법 보다는 애플리케이션 환경, 과금에 따른 유형 선택, 보안을 위해 어떻게 실행되는지 등에 대한 내용이 새롭게 들렸다
+
+### 교보문고에서 자료구조, 알고리즘 등 기본을 더 공부 할 수 있는 도서 한 권을 구매했다
+
