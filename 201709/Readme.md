@@ -224,3 +224,11 @@
 
 + tomcat을 이클립스에서 사용했던 것과 비교하면 Intellij는 거의 모든 설정은 알아서 해준다
 + git 저장소 위치를 이해하도록 gitbash를 사용여 repository 생성한 것을 [메모](http://wjun.tistory.com/71)했다
+
+## 09 . 21 Thursday
+
+### [Today](https://github.com/nttejun/Today) 프로젝트 진행하고 있다
+
++ bower 패키지 관리도구로 간편하게 라이브러리 설치, 관리를 적용하기 위해 [사용](http://wjun.tistory.com/72)해봤다
++ bootstrap을 사용해 기본적인 메인 페이지 데모구성을 완성했다
++ MySQL DB 연동을 시도하고 있다
