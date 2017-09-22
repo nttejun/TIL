@@ -225,10 +225,32 @@
 + tomcat을 이클립스에서 사용했던 것과 비교하면 Intellij는 거의 모든 설정은 알아서 해준다
 + git 저장소 위치를 이해하도록 gitbash를 사용여 repository 생성한 것을 [메모](http://wjun.tistory.com/71)했다
 
+---
+<br>
+
 ## 09 . 21 Thursday
 
-### [Today](https://github.com/nttejun/Today) 프로젝트 진행하고 있다
+### [Today](https://github.com/nttejun/Today) 프로젝트를 진행했다
 
 + bower 패키지 관리도구로 간편하게 라이브러리 설치, 관리를 적용하기 위해 [사용](http://wjun.tistory.com/72)해봤다
 + bootstrap을 사용해 기본적인 메인 페이지 데모구성을 완성했다
 + MySQL DB 연동을 시도하고 있다
+
+---
+<br>
+
+## 09 . 22 Friday
+
+### [Java 객체지향 디자인패턴](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788968480911) 3장 SOLID 원칙 공부를 마쳤다
+
++ ISP를 [학습](http://wjun.tistory.com/74)했다
++ DIP를 [학습](http://wjun.tistory.com/73)했다
+
+### [Today](https://github.com/nttejun/Today) 프로젝트를 진행했다. MySQL 사용을 위한 환경설정을 마쳤다
+
++ 설정과 쿼리 사용이 oracledb와 유사하여 사용하는데 어렵지 않았다
++ [login page](https://github.com/nttejun/Today/blob/master/Project/src/web/login.jsp)를 추가했다
++ 순수 Java로 클라이언트 요청을 처리하는 코드를 구현하고 있다
+
+---
+<br>
