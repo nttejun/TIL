@@ -220,7 +220,7 @@
 
 ## 09 . 20 Wednesday
 
-### [Today](https://github.com/nttejun/Today) 프로젝트 기본 셋팅을 마쳤다
+### [Today](https://github.com/nttejun/Today) 프로젝트 기본 셋팅을 마쳤다 - 1일차
 
 + tomcat을 이클립스에서 사용했던 것과 비교하면 Intellij는 거의 모든 설정은 알아서 해준다
 + git 저장소 위치를 이해하도록 gitbash를 사용여 repository 생성한 것을 [메모](http://wjun.tistory.com/71)했다
@@ -230,7 +230,7 @@
 
 ## 09 . 21 Thursday
 
-### [Today](https://github.com/nttejun/Today) 프로젝트를 진행했다
+### [Today](https://github.com/nttejun/Today) 프로젝트를 진행했다 - 2일차
 
 + bower 패키지 관리도구로 간편하게 라이브러리 설치, 관리를 적용하기 위해 [사용](http://wjun.tistory.com/72)해봤다
 + bootstrap을 사용해 기본적인 메인 페이지 데모구성을 완성했다
@@ -246,7 +246,7 @@
 + ISP를 [학습](http://wjun.tistory.com/74)했다
 + DIP를 [학습](http://wjun.tistory.com/73)했다
 
-### [Today](https://github.com/nttejun/Today) 프로젝트를 진행했다. MySQL 사용을 위한 환경설정을 마쳤다
+### [Today](https://github.com/nttejun/Today) 프로젝트를 진행했다. MySQL 사용을 위한 환경설정을 마쳤다 - 3일차
 
 + 설정과 쿼리 사용이 oracledb와 유사하여 사용하는데 어렵지 않았다
 + [login page](https://github.com/nttejun/Today/blob/master/Project/src/web/login.jsp)를 추가했다
@@ -257,7 +257,7 @@
 
 ## 09 . 23 Saturday
 
-### [Today](https://github.com/nttejun/Today) 프로젝트 JSP를 WAS를 거쳐 요청 결과를 출력하는 구현을 하고 있다
+### [Today](https://github.com/nttejun/Today) 프로젝트 JSP를 WAS를 거쳐 요청 결과를 출력하는 구현을 하고 있다 - 4일차
 
 + 순수 자바로 웹을 개발하며 한계와 문제점을 중간 진단했다. 이 과정에서 WAS에서 JSP를 처리하는 과정과 SERVLET 컨테이너에 요청이 전달되어 응답 처리의 과정을 자세히 공부할 수 있었다
 + server, context 등 설정하는 이유와 설정이 어떤 역할을 갖는지에 대한 이해가 더 필요하다
@@ -265,11 +265,27 @@
 ---
 <br>
 
-## 09 . 27 Wendsday
+## 09 . 27 Wednesday
 
-### Today 프로젝트를 진행하고 있다
+### Today 프로젝트를 진행했다 - 5일차
 
 + 로그인을 요청하면 login servlet에서 데이터베이스에 연결하여 검증 결과를 반환하는 시도를 하고 있다
+
+---
+
+
+## 09 . 28 Thursday
+
+### Today 프로젝트를 진행했다 - 6일차
+
+
+<br>
+
+## 09 . 29 Friday
+
+### [Today](https://github.com/nttejun/Today/tree/master/Project) 프로젝트를 진행했다 - 7일차
+
++ MySQL를 연결하여 로그인을 검증하고 Session을 사용하여 로그인, 로그아웃을 구현했다
 
 ---
 <br>
