@@ -272,13 +272,13 @@
 + 로그인을 요청하면 login servlet에서 데이터베이스에 연결하여 검증 결과를 반환하는 시도를 하고 있다
 
 ---
-
+<br>
 
 ## 09 . 28 Thursday
 
 ### Today 프로젝트를 진행했다 - 6일차
 
-
+---
 <br>
 
 ## 09 . 29 Friday
@@ -289,4 +289,12 @@
 
 ---
 <br>
+
+## 09 . 30 Saturday
+
+### [Today](https://github.com/nttejun/Today/blob/master/Project/web/index.jsp) 프로젝트를 진행했다 - 8일차
+
++ 투데이 이슈 목록을 AJAX 비동기로 구현했다
++ 기능을 만들기 위해 JSP, SERVLET, DB 코드를 구현했다 WAS 작동원리에 맞춰 필요한 코드를 작성하는 방식으로 개발했다 WAS 동작원리를 이해할 수 있는 시간이었다
+
 
