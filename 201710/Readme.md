@@ -35,3 +35,14 @@
 
 ---
 <br>
+
+## 10 . 09 Monday
+
+### 단일 연결리스트 [구현완료](https://github.com/nttejun/algorithm-euler/blob/master/euler/src/list/SinglyLinkedList.java)
+
++ 노드 특정 인덱스 추가, 삭제, 탐색 메소드와 머리와 꼬리 노드 추가, 삭제 메소드를 구현했다
+
+### [Today 프로젝트 구현 영상](https://youtu.be/w9TuLOraEW0)
+
+---
+<br>
