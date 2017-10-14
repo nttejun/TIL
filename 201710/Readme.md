@@ -46,3 +46,12 @@
 
 ---
 <br>
+
+## 10. 14 Saturday
+
+### Backjoon 9095 알고리즘 [구현](https://github.com/nttejun/algorithm-euler/blob/master/euler/src/resolve/Backjoon9095.java)
+
++ 완전탐색 문제
+
+---
+<br>
