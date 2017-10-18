@@ -55,3 +55,13 @@
 
 ---
 <br>
+
+## 10 . 18 Thursday
+
+### Backjoon 1890 알고리즘 [구현](https://github.com/nttejun/algorithm-euler/blob/master/euler/src/resolve/Backjoon1890.java)
+
++ 완전탐색 문제
+
+---
+<br>
+
