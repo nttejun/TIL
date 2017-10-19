@@ -56,7 +56,7 @@
 ---
 <br>
 
-## 10 . 18 Thursday
+## 10 . 18 Wednesday
 
 ### Backjoon 1890 알고리즘 [구현](https://github.com/nttejun/algorithm-euler/blob/master/euler/src/resolve/Backjoon1890.java)
 
@@ -65,3 +65,8 @@
 ---
 <br>
 
+## 10 . 19 Thursday
+
+### [토비의 Spring vol.1](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788960773417) 오브젝트와 의존관계 학습
+
++ 사용자 등록, 조회 간단한 DAO 생성, 테스트 메소드, 템플릿 메소드 패턴, 팩토리 메소드 패턴 기본 학습
