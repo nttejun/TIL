@@ -70,3 +70,16 @@
 ### [토비의 Spring vol.1](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788960773417) 오브젝트와 의존관계 학습
 
 + 사용자 등록, 조회 간단한 DAO 생성, 테스트 메소드, 템플릿 메소드 패턴, 팩토리 메소드 패턴 기본 학습
+
+---
+<br>
+
+## 10 . 21 Saturday
+
+### TodaySpring 개인 프로젝트를 기획했다
+
++ 학습목표, 개발목표, 기능구현, 조건, 이슈관리 방법을 계획했다
++ Spring 설정 이해 및 Spring 개발 학습을 목표하고 있다
+
+---
+<br>
