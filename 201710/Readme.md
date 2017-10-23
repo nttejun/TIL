@@ -106,7 +106,7 @@
 
 ## 10 . 24 Tuesday
 
-### 코딩테스트 문제해결 1번 알바벳 최대값, 2번 1부터 n까지 배열 값
+### 코딩테스트 문제해결 1번 [알바벳 최대값](https://github.com/nttejun/algorithm-euler/blob/master/euler/src/resolve/CountAlphabetMax.java), 2번 [1부터 n까지 배열 확인](https://github.com/nttejun/algorithm-euler/blob/master/euler/src/resolve/OneToNArraySize.java)
 
 + 주어진 몇 개의 테스트 결국 100% 성공했을 때 정말 보람찼다
 + 담당자분께서 새벽에 연락 주신것도 너무 감동이었던 하루! 이번 기회를 통해 코드 구현 시 업무 중심적으로 생각하는 것을 고민해볼 수 있던 계기가 되었다
