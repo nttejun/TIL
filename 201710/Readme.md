@@ -86,10 +86,17 @@
 
 ## 10 . 22 Sunday
 
-### ### [토비의 Spring vol.1](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788960773417) 오브젝트와 의존관계 학습
+### [토비의 Spring vol.1](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788960773417) 오브젝트와 의존관계 학습
 
 + 오브젝트 사이의 관계, 책임에 있어 클라이언트의 역할, 높은 응집도와 낮은 결합도, 전략패턴, IoC(제어의 역전), 오브젝트 팩토리 활용, Bean, Bean Factory, Application Context를 학습
 + 지난 시간에 이어 자바를 이용해 제어의 역전을 구현하였고, IoC를 모르는 상태에서 직접 구현 후 이것이 제어의 역전인 것을 확인하고는 책임을 모두 분리하고 최소한의 연결만 이루어진 느슨한 형태를 유지하고 있는 코드가 무엇인지, 상태가 무엇인지 이해할 수 있는 시간이었다. 다음 공부에서는 자연스럽게 습득한 자바에서의 제어의 역전을 스프링에서는 어떻게 구현하게 되고 어떠한 원리를 통해 작동하는지 기대된다
 
 ---
 <br>
+
+## 10 . 23 Monday
+
+### Backjoon1463 1로 만들기 [구현](https://github.com/nttejun/algorithm-euler/blob/master/euler/src/resolve/Backjoon1463.java)
+
++ 동적계획법 원리 이해 [동영상](https://www.youtube.com/watch?v=0o2hF-To_6Q) 및 블로그 설명 참고
++ 코드가 작동하는 원리를 이해하기 위해 지난 주까지 2일 정도 소요됬다. 원리를 조금씩 이해하고 있는 것은 보이지만 아직 더 많은 고민과 생각의 노력이 필요할 것 같다
