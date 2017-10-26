@@ -111,11 +111,29 @@
 + 주어진 몇 개의 테스트 결국 100% 성공했을 때 정말 보람찼다
 + 담당자분께서 새벽에 연락 주신것도 너무 감동이었던 하루! 이번 기회를 통해 코드 구현 시 업무 중심적으로 생각하는 것을 고민해볼 수 있던 계기가 되었다
 
-## 알고리즘 스터디 3주차 동적계획법(Dynamic Programming)
+### 알고리즘 스터디 3주차 동적계획법(Dynamic Programming)
 
 + 문제가 어렵지만 매주 난이도를 높이며 반복해서 진행한 결과 앞선 스터디 문제들이 조금씩 해결할 수 있는 문제로 되고 있다
 + 문제를 해결하기 위해 문제를 정의하고 필요한 요건들이 무엇인지 반복적으로 학습하는 과정도 문제 해결력을 기르는데 도움이 되는 것 같다
 
- ## Backjoon1463 [1로 만들기](https://github.com/nttejun/algorithm-euler/blob/master/euler/src/resolve/Backjoon1463.java) 동적계획법 Bottom up으로 구현
+### Backjoon1463 [1로 만들기](https://github.com/nttejun/algorithm-euler/blob/master/euler/src/resolve/Backjoon1463.java) 동적계획법 구현
 
++ Bottom up 방식으로 구현
 
+---
+<br>
+
+## 10 . 25 Wednesday
+
+### 자바, 자료구조 복습
+
++ 공부하며 정리했던 Java, 자료구조 내용을 다시 학습하며 부족한 내용들은 더 찾아보고 내용을 추가하면서 복습했다
+
+---
+<br>
+
+## 10 . 26 Thursday
+
+### 면접을 보며
+
++ 면접을 보면서 다른 사람에게 충분히 설명할 수 있는 것과 없는 것을 구분하고, 그 결과 완벽하게 내 것으로 만들어야 하는 내용이 무엇인지 파악할 수 있는 시간이 됬다
