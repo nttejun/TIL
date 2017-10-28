@@ -155,11 +155,16 @@
 ---
 <br>
 
-# 10 . 28
+## 10 . 28 Saturday
+
 ### [토비의 Spring vol.1](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788960773417) 1장 오브젝트와 의존관계 1회 정독을 완료했다
 
 + 의존관계 DI, 생성자 주입과 수정자 메소드 주입 방법, 코드를 XML 설정으로 변경하는 내용을 학습했다
 + 150장 분량의 1장을 에버노트에 정리하며 1회 정독을 마쳤다. 학습을 마치며 이 내용만 충실히 이해하고 적용할 수 있다면 발전된 모습을 발견할 수 있을 것 같다
+
+### [TodaySpring](https://github.com/nttejun/TodaySpring) repository 생성
+
++ 토비의 스프링 학습 내용을 적용한 개발을 시도했지만 바로 코딩을 진행하는데 다소 느리게 진행되었다. 기본적인 설계를 먼저 마친 후 진행할 계획이다
 
 ---
 <br>
