@@ -137,3 +137,29 @@
 ### 면접을 보며
 
 + 면접을 보면서 다른 사람에게 충분히 설명할 수 있는 것과 없는 것을 구분하고, 그 결과 완벽하게 내 것으로 만들어야 하는 내용이 무엇인지 파악할 수 있는 시간이 됬다
+
+---
+<br>
+
+## 10 . 27 Friday
+
+### [토비의 Spring vol.1](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788960773417) 오브젝트와 의존관계 학습
+
++ 싱글톤 패턴의 장점과 단점과 기본개념 및 싱글톤 패턴을 사용하고 배포하여 다중 사용자가 이용하는 경우 주의할 점, 의존관계에 대한 개념과 코드에서의 의존관계는 무엇인지 학습했다
+
+### TodaySpring 프로젝트 생성
+
++ Maven + Spring 프로젝트를 가장 잘 설명한 [블로그](http://kamang-it.tistory.com/101)
++ CRUD, 스프링 설정 복습을 마치면 비즈니스 로직에 집중할 수 있는 Hibernate 개발도 해봐야 겠다
+
+---
+<br>
+
+# 10 . 28
+### [토비의 Spring vol.1](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788960773417) 1장 오브젝트와 의존관계 1회 정독을 완료했다
+
++ 의존관계 DI, 생성자 주입과 수정자 메소드 주입 방법, 코드를 XML 설정으로 변경하는 내용을 학습했다
++ 150장 분량의 1장을 에버노트에 정리하며 1회 정독을 마쳤다. 학습을 마치며 이 내용만 충실히 이해하고 적용할 수 있다면 발전된 모습을 발견할 수 있을 것 같다
+
+---
+<br>
