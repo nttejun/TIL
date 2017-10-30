@@ -176,11 +176,18 @@
 + DI로 DB 연결구현, 메소드 패턴 구현. 원하는 DB로 커넥션하여 사용자 요청을 처리할 수 있도록 UserDAO 에 DB 커넥션 오브젝트 레퍼런스를 파라미터로 전송했다
 + 위에서 구현한 코드를 일반 메소드 방법인 수정자 메소드 방식으로 변경하여 Bean 생성
 
----
-
 ## [Backjoon10950](https://github.com/nttejun/algorithm-euler/blob/master/euler/src/resolve/Backjoon10950.java) 구현
 
 + next() is Space-based word, nextLine() is One line of text or sentence
+
+<br>
+---
+
+## 10 . 30 Monday
+
+### [Backjoon10971](https://github.com/nttejun/algorithm-euler/blob/master/euler/src/resolve/Backjoon11726.java) 구현
+
++ 2x1, 1x2 tile rull >> n = n-1 case + n-2 case
 
 <br>
 ---
