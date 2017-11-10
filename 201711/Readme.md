@@ -58,4 +58,16 @@
 
 ## 11 . 06 Monday
 
-### 완전탐색 [Backjoon1476 구현](https://github.com/nttejun/algorithm-euler/blob/master/euler/src/resolve/Backjoon1476.java)
+### 완전탐색 [Baekjoon1476 구현](https://github.com/nttejun/algorithm-euler/blob/master/euler/src/resolve/Baekjoon1476.java)
+
+---
+<br>
+
+## 11 . 10 Friday
+
+### 완전탐색 [Beakjoon10972 구현](https://github.com/nttejun/algorithm-euler/blob/master/euler/src/resolve/Baekjoon10972.java)
+
++ 순열 규칙사용
+
+---
+<br>
