@@ -85,14 +85,14 @@
 
 ## 11 . 12 Sunday
 
-### [Effective 스터디](https://github.com/enjoy-java/enjoy-effective-java/blob/master/2%EC%9E%A5_%EA%B0%9D%EC%B2%B4%EC%9D%98%EC%83%9D%EC%84%B1%EA%B3%BC%EC%82%AD%EC%A0%9C.md)
+### [Effective java](https://github.com/enjoy-java/enjoy-effective-java) 스터디 - 1주차
 
-+ 2장 객체의 생성과 삭제 스터디 진행
++ [2장 객체의 생성과 삭제](https://github.com/enjoy-java/enjoy-effective-java/blob/master/2%EC%9E%A5_%EA%B0%9D%EC%B2%B4%EC%9D%98%EC%83%9D%EC%84%B1%EA%B3%BC%EC%82%AD%EC%A0%9C.md) 내용 스터디 진행
 + 생성자 대신 정적 팩터리 메서드를 사용할 수 없는가?, 정적 팩터리 메서드는 구분이 어렵다 (newInstance, ValueOf.. 등) , 빌더 패턴, 불필요한 객체 생성하지 않기, private 생성자는 싱글턴 패턴으로 설계, 유효기간 지난 객체 참조는 폐기 (스택의 참조 폐지) 등의 내용을 학습
 
-### [Ebay 코딩테스트 C형 4번 문제](https://github.com/nttejun/algorithm-euler/blob/master/euler/src/resolve/Ebay4.java)구현
+### [Ebay 코딩테스트 C형 4번](https://github.com/nttejun/algorithm-euler/blob/master/euler/src/resolve/Ebay4.java) 문제구현
 
-+ 처음 while 문으로 구현, 시간복잡도 테스트 미통과 반복문 제거한 조건을 부여해 통과 시 켈리가 야사를 따라잡는 최소일수를 구했다
++ 처음 최소일수 구하기 while 문으로 구현, 시간복잡도 테스트 미통과해 반복문을 제거한 조건식을 구현 통과 시 켈리가 야사가 푼 문제를 따라잡는 최소일수를 구할 수 있도록 하루치 간격으로 문제 격차 수를 나누어 구했다
 
 ---
 <br>
