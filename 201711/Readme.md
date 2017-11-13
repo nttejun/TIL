@@ -71,3 +71,29 @@
 
 ---
 <br>
+
+## 11 . 11 Saturday
+
+### Spring 환경설정
+
+### Baekjoon 2251 물통문제 구현
+
++ 코드는 완성되었는데 테스트를 실패한다 원인분석 중
+
+---
+<br>
+
+## 11 . 12 Sunday
+
+### [Effective 스터디](https://github.com/enjoy-java/enjoy-effective-java/blob/master/2%EC%9E%A5_%EA%B0%9D%EC%B2%B4%EC%9D%98%EC%83%9D%EC%84%B1%EA%B3%BC%EC%82%AD%EC%A0%9C.md)
+
++ 2장 객체의 생성과 삭제 스터디 진행
++ 생성자 대신 정적 팩터리 메서드를 사용할 수 없는가?, 정적 팩터리 메서드는 구분이 어렵다 (newInstance, ValueOf.. 등) , 빌더 패턴, 불필요한 객체 생성하지 않기, private 생성자는 싱글턴 패턴으로 설계, 유효기간 지난 객체 참조는 폐기 (스택의 참조 폐지) 등의 내용을 학습
+
+### [Ebay 코딩테스트 C형 4번 문제](https://github.com/nttejun/algorithm-euler/blob/master/euler/src/resolve/Ebay4.java)구현
+
++ 처음 while 문으로 구현, 시간복잡도 테스트 미통과 반복문 제거한 조건을 부여해 통과 시 켈리가 야사를 따라잡는 최소일수를 구했다
+
+---
+<br>
+
