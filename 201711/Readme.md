@@ -97,3 +97,16 @@
 ---
 <br>
 
+## 11 . 13 Monday
+
+### Programmers Level 3 알고리즘 문제 N개의 최소공배수
+
++ [구현](https://github.com/nttejun/algorithm-euler/blob/master/euler/src/resolve/NLeastCommonNumber.java)
+
+### 신입으로 최종입사할 회사기준 선정
+
++ 2주 동안 10곳 이상 면접을 보면서 최종입사는 연봉보다는 개발하고 싶은 분야와 업무 그리고 개발팀의 사람과 문화를 1순위로 두고 선택하기로 결정했다
+
+---
+<br>
+
