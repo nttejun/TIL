@@ -103,10 +103,22 @@
 
 + [구현](https://github.com/nttejun/algorithm-euler/blob/master/euler/src/resolve/NLeastCommonNumber.java)
 
-### 신입으로 최종입사할 회사기준 선정
+### 신입으로 최종입사할 회사기준을 선정
 
 + 2주 동안 10곳 이상 면접을 보면서 최종입사는 연봉보다는 개발하고 싶은 분야와 업무 그리고 개발팀의 사람과 문화를 1순위로 두고 선택하기로 결정했다
 
 ---
 <br>
 
+## 11 . 14 Tuesday
+
+### 알고리즘 5주차
+
++ stack 사용한 알고리즘 구현방법 학습
+
+### [Baekjoon 9012](https://github.com/nttejun/algorithm-euler/blob/master/euler/src/resolve/Baekjoon9012.java) 구현
+
++ stack 으로 구현 Left ), Right ( 스택 존재여부 확인 후 push, pop 결정
+
+---
+<br>
