@@ -16,7 +16,24 @@
 ## 09 . 14 Friday
 
 ### 토비의 스프링 1장 오브젝트와 의존관계 복습 (Evernote 메모 18.09.07 - 18.09.10)
-+ 모르는 개념과 정리하지 못한 내용이 있는지 확인하고 사용 이유와 기존 또는 유사한 개념과 어떤 점이 다른지 이해하고 정리하기 위한 학습을 진행했다
++ 모르는 개념과 정리하지 못한 내용이 있는지 확인하고 사용 이유와 기존 또는 유사한 개념과 어떤 점이 다른지 이해하고 정리하기 위한 학습을 진행했다.
+
+---
+<br>
+
+## 09 . 15 Saturday
+
+### [오브젝트와 의존관계 그리고 스프링3 1부](https://www.youtube.com/watch?v=SZydc3BS--s) tutorials 학습
++ 학습내용 [구현](https://github.com/nttejun/lecture-tutorial/tree/master/spring-denpendency/src/main/java/spring/dependency)
+
+---
+<br>
+
+## 09 . 16 Sunday
+ 
+### [오브젝트와 의존관계 그리고 스프링3 2부](https://www.youtube.com/watch?v=JI7RNrWqp7k) DaoFactory 분리까지 tutorials 학습 (Evernote 메모 18.09.16) 
++ 학습내용 [구현](https://github.com/nttejun/lecture-tutorial/tree/master/spring-denpendency/src/main/java/spring/dependency)
++ makeConnection 중복제거 - Connection 생성 방식 상속 - 위임 - 인터페이스 도입 - 의존성 주입 순서로 코드를 변경하면서 어떻게 구현해야 하는지 부분적으로 이해할 수 있었다.
 
 ---
 <br>
