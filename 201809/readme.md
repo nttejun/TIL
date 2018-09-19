@@ -37,3 +37,20 @@
 
 ---
 <br>
+
+## 09 . 17 Monday
+
+### [오브젝트와 의존관계 그리고 스프링3 2부](https://www.youtube.com/watch?v=JI7RNrWqp7k) tutorials 학습 (Evernote 메모 18.09.17)
++ Dependency Inject 사용한 코드에서 Spring Inversion of control 사용하는 코드로 변경하면서 사용방법에 대해 이해할 수 있었다.
+
+---
+<br>
+
+## 09 . 18 Tuesday
+
+### 사내 서비스 management 서버 인증서 만료 상태 메서드 확인
++ 서버에서 응답받는 인증서 만료 상태를 Calendar, Date Class 등을 이용하여 d-day 값 반환받도록 구현방법 확인
+
+---
+<br>
+
