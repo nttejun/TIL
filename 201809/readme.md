@@ -77,4 +77,17 @@
 ---
 <br>
 
+## 09 . 22 Saturday
+
+### AWS RDS 서버 생성 및 DB 권한 부여에서 발생한 이슈에 대해 정리했다.
++ RDS 서버 외부 접속 시 [ping 연결실패 이슈](http://wjjeong.tistory.com/11) 내용을 블로그에 정리했다.
++ [MySQL 권한부여 실패 이슈](http://wjjeong.tistory.com/10) 내용을 블로그에 정리했다.
+
+### starter 프로젝트를 진행했다.
++ 사용자, 게시판 테이블 추가 (테이블 정의 문서 참고)
++ [AWS RDS(MySQL) 한글 깨짐 이슈](http://wjjeong.tistory.com/12) 내용을 블로그에 정리했다.
+
+---
+<br>
+
 
