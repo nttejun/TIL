@@ -90,4 +90,22 @@
 ---
 <br>
 
+## 09 . 23 Sunday
+
+### starter 프로젝트를 진행했다.
++ AWS RDS 서버 접근 권한이 있는 사용자 계정의 접속 실패 문제를 해결했다.
+    + 문제 해결보다 [문제가 발생한 원인에 대한 반성](http://wjjeong.tistory.com/13)이 중요하여 내용을 블로그에 정리했다.
+
+---
+<br>
+
+## 09 . 24 Monday
+
+### starter 프로젝트 [API 개발](https://github.com/nttejun/starter-api/tree/master/src/main/java/starter/api)을 진행했다.
++ 지인 1명과 커뮤니케이션 효율을 높이기 위해 MySQL Comment를 추가했다.
++ SpringBoot JPA, Builder 패턴으로 아이디 조회, 회원등록 테스트 코드를 구현했다.
+
+---
+<br>
+
 
