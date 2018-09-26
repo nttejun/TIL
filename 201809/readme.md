@@ -108,4 +108,14 @@
 ---
 <br>
 
+## 09 . 25 Tuesday
+
+### starter 프로젝트 [API 개발](https://github.com/nttejun/starter-api)을 진행했다.
++ SpringBoot JPA, Builder 패턴으로 게시판 생성 기능을 구현했다.
+
+---
+<br>
+
+
+
 
