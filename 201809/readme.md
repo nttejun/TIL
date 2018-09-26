@@ -117,5 +117,11 @@
 <br>
 
 
+## 09 . 26 Wednesday
 
+### starter 프로젝트 [API 개발](https://github.com/nttejun/starter-api)을 진행했다.
++ Bootstrap 적용했다.
++ 템플릿 엔진 thymeleaf 사용하여 화면을 구현했다.
 
+---
+<br>
