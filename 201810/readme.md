@@ -104,3 +104,13 @@
  
 ---
 <br>
+
+## 10 . 14
+### starter 프로젝트를 진행했다.
++ EC2, RDS를 연동하여 게시물 등록 기능을 [구현](https://github.com/nttejun/starter-api)했다. 
+
+### [현대암호학](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788957272596&orderClick=LAG&Kc=) 책을 독서했다.
++ 1장 암호학, 4장 상용 관용 암호방식, 5장 공개키 암호 방식, 6장 전자서명, 8장 해쉬 함수, 9장 인증, 11장 키 분배
+
+---
+<br>
