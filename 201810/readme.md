@@ -98,12 +98,9 @@
 ## 10 . 13
 ### starter 프로젝트를 진행했다.
 + starter 배포 실행파일(.sh)을 EC2에 추가했다.
-+ [암호기술의 이해](https://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788957271964&orderClick=LAj&Kc=) 도서를 구독했다.
-    + 1장 암호기술 및 데이터 보안, 2장 스트림 암호, 3장 DES와 여러암호
+
+### [암호기술의 이해](https://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788957271964&orderClick=LAj&Kc=) 책을 독서했다.
++ 1장 암호기술 및 데이터 보안, 2장 스트림 암호, 3장 DES와 여러암호
  
 ---
 <br>
-
-
-
-
