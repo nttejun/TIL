@@ -59,7 +59,7 @@
 ---
 <br>
 
-## 11 . 06 Thursday
+## 11 . 06 Tuesday
 
 ### 스프링5 레시피 책을 읽었다.
 
@@ -139,3 +139,13 @@
 
 ---
 <br>
+
+## 11 . 13 Tuesday
+
+### SQL 쿼리 JOIN 학습했다.
+
++ INNER JOIN, OUTER JOIN 차이점을 이해했다.
+
+---
+<br>
+
